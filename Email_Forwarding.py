@@ -11,8 +11,8 @@ bot = telebot.TeleBot(TOKEN)
 
 # Gmail IMAP settings
 GMAIL_IMAP_SERVER = 'imap.gmail.com'
-EMAIL = 'xxxxxxxxxxxx@gmail.com'
-PASSWORD = 'xxxx aaaa ssss zzzz' # Create an app Password from this Link " https://myaccount.google.com/apppasswords"
+EMAIL = 'xxxxxxxxxxxx@gmail.com' # Your Email address where you receive Emails from target Mail id 
+PASSWORD = 'xxxx aaaa ssss zzzz' # Create an app Password from this Link " https://myaccount.google.com/apppasswords" , This is mandatory because this bot should read the Mails in your inbox  
 
 # Chat ID where you want to receive emails
 CHAT_ID = '-100xxxxxxxxx' # Provide the chat id of the Telegram channel you want to forward Emails to
