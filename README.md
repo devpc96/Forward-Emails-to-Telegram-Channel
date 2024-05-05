@@ -1,2 +1,4 @@
 # Forward-Emails-to-Telegram-Channel
-This Telegram Bot helps us to forward Emails from specific Mail id to Telegram channel where this bot can send Messages 
+This Telegram Bot helps us to forward Emails from specific Mail id to Telegram channel where this bot can send Messages ( We have to provide Admin rights to this bot in the channel )
+
+
